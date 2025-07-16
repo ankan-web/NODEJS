@@ -1,0 +1,17 @@
+1. Client Request Initiation: The client (browser) initiates a network call by entering a URL.
+
+2. DNS Resolution: The browser contacts a DNS server to get the IP address of the domain.
+
+3. TCP Connection: The browser establishes a TCP connection with the server's IP address.
+
+4. HTTP Request: The browser sends an HTTP request to the server.
+
+5. Server Processing: The server processes the request and prepares a response.
+
+6. HTTP Response: The server sends an HTTP response back to the client.
+
+7. Network Transmission: The response travels back to the client over the network.
+
+8. Client Receives Response: The browser receives and interprets the response.
+
+9. Rendering: The browser renders the content of the response and displays it to the user.

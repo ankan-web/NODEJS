@@ -1,0 +1,15 @@
+DNS - Domain Name Service
+1. Domain Name Entry: User types a domain (e.g.,
+www.example.com) into the browser.
+2. DNS Query: The browser sends a DNS query to resolve the domain into an IP address.
+3. DNS Server: Provides the correct IP address for the domain.
+4. Browser Connects: The browser uses the IP to connect to the web server and loads the website
+
+
+
+DNS is of 3 types-
+  ROOT DNS - Acts as the starting point for DNS resolution . It directs queries to the TLD DNS servers.
+
+  TLD :- Top Level Domain DNS - Directs queries to the Authoritative DNS servers.
+
+  Authoritative DNS - Provides the IP address of the domain name.
